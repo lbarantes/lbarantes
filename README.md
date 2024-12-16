@@ -1,5 +1,3 @@
-# Lucas
-
 ## Sobre mim
 Olá! Me chamo Lucas Beliene e sou um desenvolvedor full stack que está cursando Sistemas de Informação na FeMASS.
 
